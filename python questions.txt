@@ -1,0 +1,6 @@
+A.) Who invented python?,James Gosling,Guido van Rossum,Anders Hejlsberg,Dennis Ritchie,2
+B.) Which of the following is not a core data type in Python programming?,Tuples,Lists,Class,Dictionary,3
+C.) Which of the following statements are true?,When you open a file for reading.. if the file does not exist.. an error occurs,When you open a file for writing.. if the file does not exist.. a new file is created,When you open a file for writing..if the file exists.. the existing file is overwritten with the new file, All of the mentioned,4
+D.) What will be the output of the following Python expression: round(4.567)?,4,4.6,5,4.5,3
+E.) Which of the following are valid string manipulation functions in Python?,count(),upper(),strp(),all of the above,4
+F)what is the keyword used for creating class?,class,def,struct,none,1
